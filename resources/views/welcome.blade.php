@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Tambahkan link Google Fonts di sini -->
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         @vite('resources/css/app.css')
         <title>First Page</title>
     </head>
@@ -19,7 +20,7 @@
         @include('components.about') <!-- section about -->
         @include('components.service') <!-- section service -->
         @include('components.price') <!-- section price -->
-        @include('components.faq') <!-- section faq -->
+        {{-- @include('components.faq') <!-- section faq --> --}}
         @include('components.contact') <!-- section contact -->
 
     {{-- footer     --}}

@@ -19,15 +19,14 @@
                 <div class="md:col-span-7 lg:col-span-7 order-2 md:order-1 place-self-center md:mt-2 md:pr-12 lg:pr-20"  data-aos="fade-up" data-aos-duration="1500">
 
                     {{-- header title --}}
-                    <h1 class="text-4xl md:text-3xl lg:text-4xl font-bold tracking-tight leading-none text-white">
-                        Lorem ipsum dolor amet consectetur.
+                    <h1 class="text-5xl md:text-3xl lg:text-6xl font-bold tracking-tight leading-none text-white">
+                        ID Neobilling
                     </h1>
-                    <p class="my-5 font-medium text-gray-100 text-sm md:text-sm ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt tenetur debitis perferendis temporibus minus, numquam quaerat ullam magnam placeat vel culpa ipsum incidunt explicabo.</p>
-                    
+                    <p class="my-5 font-medium text-gray-100 text-sm md:text-sm ">Aplikasi manajemen untuk pengusaha ISP/mini ISP yang mengatur manajemen pelanggan dan keuangan (billing). Terintegrasi dengan MikroTik seperti PPPoE dan Hotspot, IDNeobilling menawarkan kemudahan layanan dalam satu platform.</p>
                     {{-- button here --}}
                     <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4">
                         <a href="#about" class="flex inline-flex space-x-2 bg-white hover:bg-slate-100 text-orange-900 font-semibold py-2 items-center text-center justify-center px-2 rounded-full text-sm md:text-xs hover:shadow-lg active:bg-slate-100 focus:outline-none focus:ring focus:ring-orange-300 group">
-                            <p>Get started</p>
+                            <p>Memulai</p>
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 ml-2 my-1 transition ease-in-out group-hover:translate-x-2 duration-300">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
                             </svg>
@@ -38,7 +37,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M15.91 11.672a.375.375 0 0 1 0 .656l-5.603 3.113a.375.375 0 0 1-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112Z" />
                             </svg>
-                            <p>Watch Video</p>
+                            <p>Tonton Video</p>
                         </a>
                     </div>
                     

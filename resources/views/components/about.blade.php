@@ -11,47 +11,44 @@
     <section  id="about" data-aos="fade-up" data-aos-duration="1500" class="flex bg-white justify-center items-center px-6 lg:px-0 md:py-12 lg:py-2">
         <div class="max-w-5xl mx-auto text-sm md:text-sm md:my-24 mt-24 mb-12">
             <div class="text-center mb-8">
-              <h2 class="text-4xl font-bold text-orange-900 uppercase">about us</h2>
+              <h2 class="text-4xl font-bold text-orange-900 uppercase">Tentang Kami</h2>
               <div class="border-t-2 border-orange-500 mt-2 w-16 mx-auto"></div>
             </div>
           
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <div>
-                <p class="text-gray-600 mb-4">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta error, vitae ad reprehenderit eos molestiae expedita, maiores modi ducimus magnam, dolor laborum? Ipsa adipisci quis fugit natus amet culpa dicta?
-                </p>
-                <ul class="space-y-2 pr-8">
-                  <li class="flex items-start space-x-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-orange-600">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
-                    </svg>
-                    <p><span class="font-semibold">Lorem ipsum,</span> dolor sit amet consectetur, adipisicing elit. Atque, recusandae.</p>
-                    </li>
-                  <li class="flex items-start space-x-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-orange-600">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
-                    </svg>
-                    <p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Atque, recusandae.</p>
-                  </li>
-                  <li class="flex items-start space-x-2">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-orange-600">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
-                    </svg>
-                    <p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Atque, recusandae.</p>
-                  </li>
-                </ul>
-              </div>
+                <div class="space-y-4">
+                        <span class="font-semibold text-orange-600">IDNeobilling</span> adalah aplikasi manajemen yang dirancang khusus untuk membantu pengusaha ISP dan mini ISP dalam mengelola pelanggan dan keuangan mereka. Aplikasi ini menyediakan solusi terpadu yang memudahkan pengelolaan bisnis dalam satu platform, termasuk integrasi dengan MikroTik untuk Network Access seperti PPPoE dan Hotspot.</p>
+                        <ul class="space-y-2 ">
+                            <li class="flex items-start space-x-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-orange-600 flex-shrink-0">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
+                                </svg>
+                                <p>Dapat terintegrasi dengan MikroTik seperti PPPoE dan Hotspot sebagai Network Access</p>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-orange-600 flex-shrink-0">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
+                                </svg>
+                                <p>Dapat digunakan untuk <strong>Manajemen Keuangan (Billing)</strong></p>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-orange-600 flex-shrink-0">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z" />
+                                </svg>
+                                <p>Dengan fasilitas dan kemudahan layanan yang kami berikan, cukup satu pintu cukup dengan IDNeobilling.</p>
+                            </li>
+                        </ul>                                                
+                </div>
           
-              <div>
-                <p class="text-gray-600 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum <span class="text-orange-600 font-semibold">incidunt quidem similique</span>, corporis aperiam quod perferendis quos optio repellendus, magni necessitatibus architecto vero voluptatum aliquam quas sequi? Vitae, ut enim?
-                </p>
-                <a href="http://my.idneobilling.com/auth/register">
-                    <button class="mt-4 px-6 py-2 font-semibold text-orange-700 border-2 border-orange-500 rounded-xl hover:bg-orange-500 shadow-lg hover:shadow-none hover:text-white active:bg-orange-600 focus:outline-none focus:ring focus:ring-orange-300 hover:shadow-none  hover:text-white transition duration-300">
-                    Free Trial
-                    </button>
-                </a>
-              </div>
+                <div>
+                    <p class="text-gray-600 mb-4">
+                        Dengan <span class="font-semibold text-orange-600">IDNeobilling</span> , para pengusaha dapat memonitor, mengatur, dan mengoptimalkan manajemen pelanggan sekaligus mengelola tagihan dan keuangan secara efisien. Kami berkomitmen untuk memberikan kemudahan dan fasilitas layanan yang dapat diandalkan, memungkinkan bisnis Anda berjalan lebih lancar dengan lebih sedikit hambatan.                </p>
+                    <a href="http://my.idneobilling.com/auth/register">
+                        <button class="mt-4 px-6 py-2 font-semibold text-orange-700 border-2 border-orange-500 rounded-xl hover:bg-orange-500 shadow-lg hover:shadow-none hover:text-white active:bg-orange-600 focus:outline-none focus:ring focus:ring-orange-300 hover:shadow-none  hover:text-white transition duration-300">
+                        Coba gratis
+                        </button>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -60,7 +57,7 @@
     
 
     {{-- khusus ada accordionnya! --}}
-    <section class="flex bg-orange-50 justify-center items-center px-6 lg:px-0 md:py-12 py-12">
+    {{-- <section class="flex bg-orange-50 justify-center items-center px-6 lg:px-0 md:py-12 py-12">
         <div class="max-w-5xl mx-auto text-sm md:text-sm">
             <div class="">
                 <!-- Grid Layout -->
@@ -191,7 +188,7 @@
                             </div>
                             <a href="http://my.idneobilling.com/auth/register">
                                 <button class="px-6 py-2 font-semibold text-orange-700 border-2 border-orange-500 rounded-xl hover:bg-orange-500 shadow-lg hover:shadow-none hover:text-white active:bg-orange-600 focus:outline-none focus:ring focus:ring-orange-300 transition duration-300">
-                                    Free Trial
+                                    Coba gratis
                                 </button>
                             </a>
                     </div>
@@ -221,7 +218,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     
       
 </body>
